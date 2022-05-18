@@ -1,0 +1,4 @@
+rootProject.name = 'photon'
+
+include 'service'
+include 'internal-protocol'
